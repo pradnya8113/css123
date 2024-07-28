@@ -1,0 +1,28 @@
+h1 {
+    color : rgb(7, 7, 8);
+    text-align: center;
+    /* text-decoration: line-through; */
+}
+p {
+    color : #800606;
+    text-align: left;
+}
+button {
+    color : red;
+    background-color: #070d2d;
+}
+body{
+    background-color: #c1c9ae;
+}
+/* * {
+    color : blue;
+} */
+h2, h3, h4 {
+    color : rgb(6, 52, 69);
+}
+#box {
+    color : rgb(8, 8, 174);
+}
+/* span {
+    background-color : green;
+} */
